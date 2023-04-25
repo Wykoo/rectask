@@ -30,7 +30,7 @@ flask run
 ## Usage
 ### Endpoints
 
-1. '/avg'
+1. '/avg' - 
 Retrieves the average exchange rate for a specific argument
 
 Example
@@ -43,7 +43,7 @@ Response
 "0": 3.7191
 ```
 
-2. '/max-min-rate'
+2. '/max-min-rate' - 
 Retrieves maximum difference between ask and bid prices for a specific argument
 
 Example
@@ -56,8 +56,7 @@ Response
 Max: 3.7288, Min: 3.6948
 ```
 
-3.'buy-ask'
-
+3.'buy-ask' - 
 Retrieves maximum difference between highest and lowest prices for a specific argument
 
 Example
