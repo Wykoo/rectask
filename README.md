@@ -1,10 +1,14 @@
 # Table of Contents
 * [General info](#General-info)
+* [Additional info](#Additional-info)
 * [Installation](#Installation)
 * [Usage](#Usage)
 
 ## General Info
 This is a rectruitment task as web application that allows user to search for example: the different rates or maximum differnce between bid and ask prices
+
+## Aditional Info
+From the start i wanted to write that task with OOP, but it seems more efficient with def only, so i stayed with the second version
 
 ## Installation
 1. Clone the repository 
